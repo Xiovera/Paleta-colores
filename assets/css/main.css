@@ -1,0 +1,11 @@
+*{
+	outline: 1px solid red;
+}
+/*change color section */
+header .fondo{
+	height: 150px;
+}
+/*buttons section*/
+#buttons form{
+	height: 400px;
+}
